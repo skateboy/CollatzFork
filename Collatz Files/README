@@ -1,0 +1,15 @@
+Sumedh Saurabh
+
+
+
+
+To start program:
+
+Type:
+  make
+  ./Collatz_saurabh (Number of Processes) (Minimum Number) (Maximum Number)
+
+To clean:
+
+Type:
+  make clean
